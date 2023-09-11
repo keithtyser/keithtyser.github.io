@@ -47,7 +47,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/keithtyser
-  - icon: googlescholar
+  - icon: google
     icon_pack: fab
     link: https://scholar.google.com/citations?hl=en&user=uEbS6EQAAAAJ
   - icon: orcid
