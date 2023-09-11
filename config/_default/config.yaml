@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Keith Tyser # Website name
-baseURL: 'https://keithtyser.github.io/' # Website URL
+baseURL: 'https://keithtyser.github.io' # Website URL
 
 ############################
 ## LANGUAGE
